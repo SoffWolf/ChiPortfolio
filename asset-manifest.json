@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChiPortfolio/static/css/main.b7db3bb7.chunk.css",
+    "main.js": "/ChiPortfolio/static/js/main.201a0358.chunk.js",
+    "main.js.map": "/ChiPortfolio/static/js/main.201a0358.chunk.js.map",
+    "runtime-main.js": "/ChiPortfolio/static/js/runtime-main.8bf197e8.js",
+    "runtime-main.js.map": "/ChiPortfolio/static/js/runtime-main.8bf197e8.js.map",
+    "static/js/2.87ddec1f.chunk.js": "/ChiPortfolio/static/js/2.87ddec1f.chunk.js",
+    "static/js/2.87ddec1f.chunk.js.map": "/ChiPortfolio/static/js/2.87ddec1f.chunk.js.map",
+    "index.html": "/ChiPortfolio/index.html",
+    "static/css/main.b7db3bb7.chunk.css.map": "/ChiPortfolio/static/css/main.b7db3bb7.chunk.css.map",
+    "static/js/2.87ddec1f.chunk.js.LICENSE.txt": "/ChiPortfolio/static/js/2.87ddec1f.chunk.js.LICENSE.txt",
+    "static/media/about.b4a45e0c.jpg": "/ChiPortfolio/static/media/about.b4a45e0c.jpg",
+    "static/media/award.a796a64f.png": "/ChiPortfolio/static/media/award.a796a64f.png",
+    "static/media/me.c50deced.png": "/ChiPortfolio/static/media/me.c50deced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bf197e8.js",
+    "static/js/2.87ddec1f.chunk.js",
+    "static/css/main.b7db3bb7.chunk.css",
+    "static/js/main.201a0358.chunk.js"
+  ]
+}
